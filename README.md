@@ -1,2 +1,2 @@
 # medical-e-commerce
-e-commerse website to manage medical store data
+e-commerse websit to manage medical store data
